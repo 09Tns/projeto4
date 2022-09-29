@@ -1,3 +1,6 @@
 [submodule "dados"]
 	path = dados
 	url = https://github.com/09Tns/projeto4.git
+[submodule "submodulo"]
+	path = submodulo
+	url = https://github.com/09Tns/submodulo.git
